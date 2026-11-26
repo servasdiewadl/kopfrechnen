@@ -1,0 +1,4 @@
+#!/bin/bash
+# Kopfrechnen Beamer - Starter
+DIR="$(cd "$(dirname "$0")" && pwd)"
+open "$DIR/index.html"
